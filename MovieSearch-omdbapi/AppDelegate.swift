@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MovieSearch-omdbapi
 //
-//  Created by tcs on 7/5/16.
+//  Created by Raj .
 //  Copyright © 2016 Raj. All rights reserved.
 //
 
